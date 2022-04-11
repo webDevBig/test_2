@@ -94,7 +94,7 @@ section {
     background-size: cover;
     background-image: url(img/photo.png);
     filter: grayscale(1);
-    transition: all .3s;
+    transition: hover .3s;
 
 }
 
